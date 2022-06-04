@@ -33,7 +33,7 @@ global.author = 'By sev ven' //sticker author name
 global.autoread = 'on' //ganti 'on' untuk mengaktifkan auto tead, ganti 'off' untuk mematikan auto read
 
 //═══════[media sosial]════════\\
-global.groupwa = 'https://chat.whatsapp.com/H9r9ZLroiSeHAQDOZvHN3E' //group WhatsApp nya
+global.groupwa = 'https://chat.whatsapp.com/DORxISN9PSD6APK0oPTibS' //group WhatsApp nya
 
 global.medsos1 = 'Instagram'
 global.medsos1nama = 'store.sevven'
