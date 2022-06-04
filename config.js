@@ -21,31 +21,31 @@ global.APIKeys = {
 
 //═══════[modification]════════\\
 global.apilol = 'fleyvin_soft' //YOUR APIKEY LolHuman
-global.owner = ['6282282894960','6283110011351'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['6282282894960'] //another owner number
-global.premium = ['6282282894960'] //premium number
-global.pengguna = 'Its Me Iky' //username
-global.botnma = 'KyBotzz' //bot name
-global.fake = 'KyBotzz ' //FAKE fotter
-global.ownernma = 'Its Me Iky' //owner name
-global.packname = 'KyBotzz' //sticker package name
-global.author = 'By Iky' //sticker author name
+global.owner = ['6281514622170','6283110011351'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['6281514622170'] //another owner number
+global.premium = ['6281514622170'] //premium number
+global.pengguna = 'Bot Sev Ven' //username
+global.botnma = 'Bot Sev Ven' //bot name
+global.fake = 'Bot Sev Ven ' //FAKE fotter
+global.ownernma = 'Reghy Botz' //owner name
+global.packname = 'Bot Sev Ven' //sticker package name
+global.author = 'By sev ven' //sticker author name
 global.autoread = 'on' //ganti 'on' untuk mengaktifkan auto tead, ganti 'off' untuk mematikan auto read
 
 //═══════[media sosial]════════\\
-global.groupwa = 'https://chat.whatsapp.com/Ki79sF8nl93Ck8jokFA3sh' //group WhatsApp nya
+global.groupwa = 'https://chat.whatsapp.com/H9r9ZLroiSeHAQDOZvHN3E' //group WhatsApp nya
 
-global.medsos1 = 'TikTok'
-global.medsos1nama = 'TikTok Iky'
-global.medsos1url = 'https://vt.tiktok.com/ZSdg7hQQT/'
+global.medsos1 = 'Instagram'
+global.medsos1nama = 'store.sevven'
+global.medsos1url = 'https://www.instagram.com/store.sevven'
 
-global.medsos2 = 'Group WhatsApp'
-global.medsos2nama = 'Official WhatsApp Group BOT'
-global.medsos2url = 'https://chat.whatsapp.com/Ki79sF8nl93Ck8jokFA3sh'
+global.medsos2 = 'WhatsApp Group'
+global.medsos2nama = ''
+global.medsos2url = 'https://chat.whatsapp.com/DORxISN9PSD6APK0oPTibS'
 
-global.medsos3 = '-'
-global.medsos3nama = '-'
-global.medsos3url = '-'
+global.medsos3 = ''
+global.medsos3nama = ''
+global.medsos3url = ''
 
 //═══════[sewa, donasi, script, thnks to]════════\\
 //teks sewa bot
@@ -97,11 +97,7 @@ global.sewabot = `────❲ 𝚂𝚎𝚠𝚊 𝙱𝚘𝚝 ❳────
 //teks donasi
 global.donasi = `〔 𝙳𝙾𝙽𝙰𝚃𝙴 〕
                     
-⭔ PULSA : 082282894960
-⭔ DANA : 082282894960
-⭔ OVO : 082282894960
-⭔ ShopeePay : 082282894960
-⭔ QRIS : SCAN FOTO DI ATAS
+⭔ PULSA : 081514622170
 
  𝘜𝘢𝘯𝘨 𝘥𝘰𝘯𝘢𝘴𝘪 𝘢𝘬𝘢𝘯 𝘥𝘪 𝘬𝘶𝘮𝘱𝘶𝘭𝘬𝘢𝘯 𝘥𝘢𝘯 𝘥𝘪 𝘬𝘦𝘭𝘰𝘭𝘢 𝘰𝘭𝘦𝘩 𝘍𝘭𝘦𝘺𝘷𝘪𝘯 𝘛𝘦𝘢𝘮 𝘶𝘯𝘵𝘶𝘬 𝘥𝘪𝘢𝘭𝘰𝘬𝘢𝘴𝘪𝘬𝘢𝘯 𝘥𝘢𝘭𝘢𝘮 𝘱𝘦𝘮𝘣𝘶𝘢𝘵𝘢𝘯 𝘴𝘦𝘳𝘵𝘢 𝘱𝘦𝘯𝘨𝘦𝘮𝘣𝘢𝘯𝘨𝘢𝘯 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘺𝘢𝘯𝘨 𝘣𝘦𝘳𝘮𝘢𝘯𝘧𝘢𝘢𝘵 𝘣𝘢𝘨𝘪 𝘣𝘢𝘯𝘺𝘢𝘬 𝘰𝘳𝘢𝘯𝘨.
  
@@ -158,8 +154,7 @@ global.tqto =`┏━━⬣ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎
 ┃ *Nabi Muhammad SAW*
 ┃⬡ family dev bot
 ┃⬡ xZrinva
-┃⬡ KyBotzz
-┃⬡ It's Me Iky
+┃⬡ Reghy Botz
 ┃⬡ wahyu
 ┃⬡ xeon
 ┃⬡ zenz
@@ -171,8 +166,7 @@ global.tqto =`┏━━⬣ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎
 ┗
 ┏━━⬣ *Energy Contribution*
 ┃⬡ xZrinva
-┃⬡ KyBotzz
-┃⬡ It's Me Iky
+┃⬡ Reghy Botz
 ┃⬡ xeon
 ┃⬡ zenz
 ┃⬡ Fleyvin Team
