@@ -154,7 +154,7 @@ global.tqto =`┏━━⬣ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎
 ┃ *Nabi Muhammad SAW*
 ┃⬡ family dev bot
 ┃⬡ xZrinva
-┃⬡ Reghy Botz
+┃⬡ Bot Sev Ven
 ┃⬡ wahyu
 ┃⬡ xeon
 ┃⬡ zenz
@@ -166,7 +166,7 @@ global.tqto =`┏━━⬣ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎
 ┗
 ┏━━⬣ *Energy Contribution*
 ┃⬡ xZrinva
-┃⬡ Reghy Botz
+┃⬡ Bot Sev Ven
 ┃⬡ xeon
 ┃⬡ zenz
 ┃⬡ Fleyvin Team
